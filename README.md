@@ -1,9 +1,5 @@
-# list-cookies
+# Sesslink
 
 ## What it does
 
-This extensions list the cookies in the active tab.
-
-# What it shows
-
-Demonstration of the getAll() function in the cookie API
+This extension allows you to generate a 'key' that you can share with your friends to allow you all to share a website session!
